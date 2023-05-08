@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+
+  background-color:beige;
+
+}
+div {
+  border-radius: 10px;
+}
+
+#app {
+    background-color:bisque;
+    text-align: center;
+    color:darkolivegreen;
+    max-width: 600px; /* pang adjust */
+    margin: 0 auto; /* pang center na */
+    
+    border-radius: 10px;
+  }
+
+  button {
+    background-color:darkolivegreen;
+    color: wheat;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: -5%;
+  }
+
+  h5 {
+    color:darkolivegreen;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  h2 {
+    color:darkolivegreen;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  h1 {
+    color:brown;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  #taskTop {
+    background-color:darkolivegreen;
+  }
+
+  #tasktext {
+    color:wheat;
+  }
+
+  #addtasktext {
+    color:wheat;
+    
+  }
+
+  #addtaskdiv {
+    
+    background-color:darkolivegreen;
+  }
+
+  #addtaskbutton {
+    background-color:wheat;
+    color:darkolivegreen;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin: 2%;
+  
+  }
+
+  input {
+    width: 60%;
+    border-radius: 10px;
+    height: 25px;
+  }
+
+  #updatetask {
+    color:wheat;
+    
+  }
+
+  #updatetaskdiv {
+    background-color:darkolivegreen;
+  }
+
+  #updatebutton {
+    background-color:wheat;
+    color:darkolivegreen;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin: 2%;
+    
+  }
+
+  #activetaskdiv {
+    background-color: rgb(237, 213, 149);
+    max-width: 500px;
+    text-align: center;
+    margin: 0 auto
+
+  }
